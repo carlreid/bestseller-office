@@ -375,7 +375,7 @@
                  "class":"area",
                  "height":283.333333333333,
                  "id":21,
-                 "name":"silentZone",
+                 "name":"meetingZone",
                  "properties":[
                         {
                          "name":"silent",
