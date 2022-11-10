@@ -476,6 +476,11 @@
                  "name":"boardgames",
                  "properties":[
                         {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/boardgamearena.com\/"
@@ -518,6 +523,22 @@
                  "height":132,
                  "id":29,
                  "name":"backstageDocs",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/backstage.k8s.bestcorp.net"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"View docs on backstage"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":64.6666666666667,
