@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# BESTSELLER Office
 
 ![map](./map.png)
 
