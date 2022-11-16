@@ -225,7 +225,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -263,7 +263,7 @@
          "name":"aboveFurniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -498,8 +498,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":162.666666666667,
-                 "x":1406.66666666667,
-                 "y":574.833333333333
+                 "x":1389.33333333334,
+                 "y":864.166666666666
                 }, 
                 {
                  "class":"area",
@@ -563,7 +563,7 @@
                  "value":"Open lofi chill"
                 }],
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -600,7 +600,7 @@
          "name":"abovePlayer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -638,7 +638,7 @@
          "name":"abovePlayer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
