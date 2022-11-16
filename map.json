@@ -1,5 +1,4 @@
-{ 
-       "compressionlevel":-1,
+{ "compressionlevel":-1,
  "height":27,
  "infinite":false,
  "layers":[
@@ -479,7 +478,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":""
+                         "value":"gamelist"
                         }, 
                         {
                          "name":"openWebsite",
