@@ -564,7 +564,7 @@
                  "name":"voteWatchersOnWall",
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/poll.ly\/n43S9Qe3VaPgcOmuuDph"
                         }, 
