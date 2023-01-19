@@ -350,8 +350,8 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":131.666666666667,
-                 "x":1760.33333333333,
+                 "width":292.666666666667,
+                 "x":1599.33333333333,
                  "y":573.333333333333
                 }, 
                 {
@@ -583,38 +583,6 @@
                  "width":63.667,
                  "x":928.333166666667,
                  "y":539.749833333333
-                }, 
-                {
-                 "class":"area",
-                 "height":194.167,
-                 "id":33,
-                 "name":"teamsOpen",
-                 "properties":[
-                        {
-                         "name":"openTab",
-                         "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/_"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Open Teams"
-                        }, 
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":159.5,
-                 "x":1601.75,
-                 "y":571.9165
                 }],
          "opacity":1,
          "properties":[
